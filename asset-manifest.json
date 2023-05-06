@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-events-handeling-reactapp.github.io/static/css/main.c02e23c8.css",
+    "main.js": "/form-events-handeling-reactapp.github.io/static/js/main.c8388049.js",
+    "static/js/787.7cd076e2.chunk.js": "/form-events-handeling-reactapp.github.io/static/js/787.7cd076e2.chunk.js",
+    "index.html": "/form-events-handeling-reactapp.github.io/index.html",
+    "main.c02e23c8.css.map": "/form-events-handeling-reactapp.github.io/static/css/main.c02e23c8.css.map",
+    "main.c8388049.js.map": "/form-events-handeling-reactapp.github.io/static/js/main.c8388049.js.map",
+    "787.7cd076e2.chunk.js.map": "/form-events-handeling-reactapp.github.io/static/js/787.7cd076e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c02e23c8.css",
+    "static/js/main.c8388049.js"
+  ]
+}
